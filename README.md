@@ -103,36 +103,36 @@ AI & Tools
 <tr>
 <td width="50%" valign="top">
 
-🎬 AniMalia
+🍡 MIRUKU
 
-Anime streaming platform focused on a clean experience, discovery and modern UI.
+A modern anime streaming platform with a large catalog, ongoing releases, schedules, recommendations and a clean viewing experience across devices. urlOpen MIRUKU ↗https://miruku.lol/
 
 Focus
 
-Frontend Streaming Anime UI/UX
+Frontend Streaming Anime UI/UX Web
 
 <br>
 
-<a href="https://github.com/k1run9?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://miruku.lol/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-🧩 urrowstore
+🎬 KinoFate
 
-A dedicated store concept for Lampa plugins and related tools.
+A movie & series streaming platform with genre discovery, popular titles, ratings, new releases and personalized discovery features. urlOpen KinoFate ↗https://kinofate.vercel.app/
 
 Focus
 
-Web Plugins Lampa E-commerce
+Web Streaming Movies Series UI/UX
 
 <br>
 
-<a href="https://github.com/k1run9?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://kinofate.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
