@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,35:16002b,70:302b63,100:5b2cff&text=k1run9&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20AI%20%E2%80%A2%20CREATIVE%20TECH&descSize=17&descAlignY=61&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,35:16002b,70:302b63,100:5b2cff&text=k1run9&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20AI%20%E2%80%A2%20CREATIVE%20TECH&descSize=17&descAlignY=61&animation=fadeIn"/>
 
 <br>
 
@@ -18,61 +18,90 @@
 <img src="https://img.shields.io/badge/GitHub-k1run9-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/k1run9?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-✦ About Me
+🧑‍💻 About Me
+
+I'm k1run9 — a junior developer who enjoys turning ideas into real digital products.
+
+I combine frontend development, AI, automation and creative web experiences to build things that are actually fun to use.
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-whoami
+🔭 What I'm Building
 
-I'm k1run9 — a junior developer focused on building things that actually feel useful.
+🍡 MIRUKU — anime streaming platform
 
-I enjoy combining frontend development, AI, automation and creative ideas into real products.
+🎬 KinoFate — movies & series platform
 
-🔭 Building AniMalia — anime streaming platform
+🤖 AI-powered experiments
 
-🛍️ Building urrowstore — Lampa plugin store
+⚙️ Automation & developer tools
 
-🌱 Studying AI-First Programming at SoftUni
-
-🤖 Exploring LLMs & AI integrations
-
-🎯 Open to Junior Frontend / QA / AI Support
-
-🎮 Anime & gaming enjoyer
-
-⚡ Best debugging combo: gym → anime → code
+🎨 Experimental web interfaces
 
 </td>
-<td width="45%" valign="top">
 
-current_focus
+<td width="50%" valign="top">
 
-┌──────────────────────────┐
-│  FRONTEND        ███████░ │
-│  AI / LLM        ██████░░ │
-│  AUTOMATION      ██████░░ │
-│  QA              █████░░░ │
-│  UI / UX         ██████░░ │
-│  CREATIVE        ███████░ │
-└──────────────────────────┘
+🎯 What I'm Learning
 
-<br>
+⚛️ React & modern frontend
 
-Building. Breaking. Learning.
-Rebuilding it better.
+🟦 TypeScript
+
+🤖 LLM integration
+
+🐍 Python automation
+
+🧪 QA & debugging
+
+🎨 UI/UX & product design
 
 </td>
 </tr>
 </table>
 
-⚡ Tech Arsenal
+<br>
+
+Build it → Break it → Understand it → Make it better.
+
+⚡ Current Focus
+
+Area
+
+Focus
+
+💻 Frontend
+
+React · Next.js · TypeScript
+
+🤖 AI / LLM
+
+ChatGPT · Ollama · AI APIs
+
+⚙️ Automation
+
+Python · Bots · APIs
+
+🎨 UI / UX
+
+Figma · Responsive Design
+
+🧪 QA
+
+Testing · Debugging · UX
+
+🌌 Creative
+
+Anime · Gaming · Experimental Web
+
+🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -80,15 +109,21 @@ Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 
+<br><br>
+
 Backend & Programming
 
 <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,sqlite,postgres" />
 
-AI & Tools
+<br><br>
+
+Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker" />
 
 <br><br>
+
+AI & Automation
 
 <img src="https://img.shields.io/badge/AI-LLM%20Integration-BD93F9?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-Explorer-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -101,21 +136,24 @@ AI & Tools
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 🍡 MIRUKU
 
-A modern anime streaming platform with a large catalog, ongoing releases, schedules, recommendations and a clean viewing experience across devices. urlOpen MIRUKU ↗https://miruku.lol/
-
-Focus
-
-Frontend Streaming Anime UI/UX Web
+A modern anime streaming platform focused on anime discovery, browsing and a clean viewing experience.
 
 <br>
 
 <a href="https://miruku.lol/">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_OPEN_MIRUKU-7c3aed?style=for-the-badge&logoColor=white"/>
 </a>
+
+<br><br>
+
+Stack
+
+Frontend Web Streaming Anime UI/UX
 
 </td>
 
@@ -123,27 +161,33 @@ Frontend Streaming Anime UI/UX Web
 
 🎬 KinoFate
 
-A movie & series streaming platform with genre discovery, popular titles, ratings, new releases and personalized discovery features. urlOpen KinoFate ↗https://kinofate.vercel.app/
-
-Focus
-
-Web Streaming Movies Series UI/UX
+A modern movie & series platform designed around discovery, genres, ratings and popular content.
 
 <br>
 
 <a href="https://kinofate.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_OPEN_KINOFATE-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<br><br>
+
+Stack
+
+Web Streaming Movies Series UI/UX
+
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 🤖 AI Experiments
 
-Experiments with LLM APIs, assistants, automation and AI-first development.
+Experiments with LLM APIs, AI assistants, automation and AI-first development.
+
+<br>
 
 LLM Python APIs Automation
 
@@ -153,11 +197,14 @@ LLM Python APIs Automation
 
 🛠️ Web Experiments
 
-Small interfaces, utilities, bots and experiments created while learning and shipping.
+Interfaces, utilities, bots and small applications created while learning and experimenting.
+
+<br>
 
 React JavaScript Python UI
 
 </td>
+
 </tr>
 </table>
 
@@ -171,49 +218,74 @@ React JavaScript Python UI
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=k1run9&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" />
+<img src="https://streak-stats.demolab.com?user=k1run9&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9"/>
 
 </div>
 
-🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=k1run9&theme=discord&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
-🐍 Contribution Matrix
+🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k1run9/k1run9/output/github-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k1run9/k1run9/output/github-snake.svg"/>
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/k1run9/k1run9/output/github-snake.svg"/>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/k1run9/k1run9/output/github-snake.svg"/>
 </picture>
 
 </div>
 
-🌌 Developer Philosophy
+🧠 Developer Mindset
 
 <div align="center">
 
-        BUILD
-          ↓
-       BREAK IT
-          ↓
-       DEBUG IT
-          ↓
-       LEARN IT
-          ↓
-       SHIP IT
-          ↓
-       REPEAT
+🧩
 
-Code is not just about solving problems.
+Mindset
 
-It's about creating things people want to use.
+🚀
+
+Ship > Perfect
+
+🔍
+
+Understand > Copy
+
+🧪
+
+Test > Assume
+
+📚
+
+Learn > Stagnate
+
+🎨
+
+Simple > Complicated
+
+⚡
+
+Create > Consume
+
+</div>
+
+🌌 A Little More About Me
+
+<div align="center">
+
+Frontend      ████████████████░░░░  80%
+AI / LLM      ██████████████░░░░░░  70%
+Automation    ██████████████░░░░░░  70%
+UI / UX       ███████████████░░░░░  75%
+QA            ███████████░░░░░░░░░  55%
+Creative      █████████████████░░░  85%
+
+<br>
+
+I like building things that combine technology with creativity.
+
+<br>
+
+anime · code · ai · gaming · design · automation
 
 </div>
 
@@ -239,8 +311,10 @@ Let's build something cool. ⚡
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:5b2cff,35:302b63,70:16002b,100:090014&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:5b2cff,35:302b63,70:16002b,100:090014&section=footer"/>
 
 </div>
